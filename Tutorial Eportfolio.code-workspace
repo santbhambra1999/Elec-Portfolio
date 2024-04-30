@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"name": "Tutorial Eportfolio",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Tutorial Eportfolio",
+    "editor.formatOnSave": true
+  }
+}
